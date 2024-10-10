@@ -1,3 +1,6 @@
+
+![Screenshot_1](https://github.com/user-attachments/assets/a81a1eee-c5f3-48de-a158-bb89036dd492)
+
 1.Place the files UserAgents.txt, config.json, and InstagramChecker.exe in one folder and run InstagramChecker.exe.
 
 2.A database in the format mail:pass\phone:pass\log:pass ("Database File").
