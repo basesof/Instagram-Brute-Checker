@@ -27,7 +27,12 @@ Possible Questions:
 
 4.How can I improve the results of finding accounts? Use different user agents for the program in UserAgents.txt, as an example of a user agent that the program accepts.
 
-5.Where can I find the results of the program? After launching, a folder named output_ is created, where you will find the results of the program's work.
+5.Where can I find the results of the program? After launch, a folder called output_ is created, in which you will find the results of the program. 
+
+login:password
+
+login:password:iam token
+
 
 good job everyone
 
