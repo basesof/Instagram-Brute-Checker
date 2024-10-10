@@ -1,6 +1,8 @@
 
 ![Screenshot_1](https://github.com/user-attachments/assets/a81a1eee-c5f3-48de-a158-bb89036dd492)
 
+THIS PROGRAM IS NOT CREATED FOR PAID DISTRIBUTION
+
 1.Place the files UserAgents.txt, config.json, and InstagramChecker.exe in one folder and run InstagramChecker.exe.
 
 2.A database in the format mail:pass\phone:pass\log:pass ("Database File").
@@ -24,3 +26,7 @@ Possible Questions:
 3.I uploaded 1000 lines, but the program only sees 970 lines. Why? The program filters the lines to determine which ones are suitable or unsuitable for sending requests.
 
 4.How can I improve the results of finding accounts? Use different user agents for the program in UserAgents.txt, as an example of a user agent that the program accepts.
+
+5.Where can I find the results of the program? After launching, a folder named output_ is created, where you will find the results of the program's work.
+
+good job everyone
